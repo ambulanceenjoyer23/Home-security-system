@@ -1,6 +1,9 @@
 # Home-security-system
 Smart Home Security System using , featuring motion detection, RFID + keypad access, intrusion alerts with buzzer, and camera snapshots sent to a Flask web server.
 
+This project was built back in 2023 during a super busy time and a shortenned semester, so the code isn't the cleanest. My group was more focused on getting all the hardware and software parts to work together — RFID, sensors, a camera, Flask web control, cloud integration, etc.
+It’s not the most readable code by today's standard, but I wanted to share it because it packs a lot of functionality and shows what’s possible with the Raspberry Pi and some creativity. A proper cleanup and refactor will be done soon
+
 What this project does:
 ------------------------------------------------------------------
 Monitors door/area with an ultrasonic sensor (presence/distance).
