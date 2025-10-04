@@ -8,8 +8,11 @@ Monitors door/area with an ultrasonic sensor (presence/distance).
 Reads temperature & humidity (DHT11/DHT22).
 
 Controls RFID keys (e.g., RC522) and a matrix keypad for entry.
+
 Sounds a buzzer when a user enters the wrong code/key several times (configurable threshold).
+
 When intrusion is detected or repeated failed attempts occur, the camera captures pictures of the intruder and sends images to a Flask web server (HTTP POST).
+
 Server stores images and can trigger alerts or a dashboard.
 
 
