@@ -15,9 +15,17 @@ When intrusion is detected or repeated failed attempts occur, the camera capture
 
 Server stores images and can trigger alerts or a dashboard.
 
-
+Failed intruder attempt terminal:
 <img width="1920" height="1080" alt="Failed intruder attempt terminal" src="https://github.com/user-attachments/assets/c5154ffd-4f5f-4046-9ddd-e23c4bc03a3f" />
+
+Take RFID user pic:
 <img width="1920" height="1080" alt="Take RFID user pic" src="https://github.com/user-attachments/assets/77251138-a4d8-45cd-b755-ad7f697c5dbf" />
+
+RFID access:
 <img width="1920" height="1080" alt="RFID access" src="https://github.com/user-attachments/assets/bd6fc833-118e-4622-8fee-f981d355d6df" />
+
+AC on and off:
 <img width="1920" height="1080" alt="AC on and off" src="https://github.com/user-attachments/assets/e49609c4-8251-41e7-a3f3-ec19614d15a8" />
+
+Rotating LED intensity:
 <img width="1920" height="1080" alt="Rotating LED intensity" src="https://github.com/user-attachments/assets/82a1fe06-d1ca-4697-89dc-16b75c9eaecd" />
